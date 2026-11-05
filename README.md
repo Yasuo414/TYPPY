@@ -1,1 +1,1 @@
-# TYPPY
+# TYPPY - Officiální distribuce zapisovací app
